@@ -11,6 +11,10 @@ function getYouTubeId(url) {
   return match ? match[1] : null
 }
 
+function isLocalVideo(url) {
+  return url && !url.startsWith('http') && (url.endsWith('.mp4') || url.endsWith('.webm') || url.endsWith('.mov'))
+}
+
 function parseTargetReps(repsStr) {
   if (!repsStr) return 10
   const str = String(repsStr)
@@ -254,8 +258,8 @@ export default function ExerciseDetail({ user }) {
           )}
         </div>
 
-        {/* YouTube Video */}
-        {videoId && (
+        {/* Video Demo: YouTube or local file */}
+        {(videoId || isLocalVideo(exercise.videoDemo) || exercise.localVideo) && (
           <div>
             <button
               onClick={() => setShowVideo(!showVideo)}
@@ -267,15 +271,32 @@ export default function ExerciseDetail({ user }) {
             </button>
             {showVideo && (
               <div className="mt-2 rounded-2xl overflow-hidden aspect-video bg-zinc-800">
-                <iframe
-                  src={`https://www.youtube.com/embed/${videoId}`}
-                  title={exercise.nameEn}
-                  className="w-full h-full"
-                  allowFullScreen
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                />
+                {videoId ? (
+                  <iframe
+                    src={`https://www.youtube.com/embed/${videoId}`}
+                    title={exercise.nameEn}
+                    className="w-full h-full"
+                    allowFullScreen
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  />
+                ) : (
+                  <video
+                    src={exercise.localVideo || `/videos/${exerciseId}.mp4`}
+                    controls
+                    playsInline
+                    className="w-full h-full object-contain"
+                    title={exercise.nameEn}
+                  />
+                )}
               </div>
             )}
+          </div>
+        )}
+        {/* Local video hint when no link set yet */}
+        {!videoId && !isLocalVideo(exercise.videoDemo) && !exercise.localVideo && (
+          <div className="flex items-center gap-2 text-zinc-600 text-xs">
+            <Youtube size={14} />
+            <span>Coloque o vídeo em <code className="text-zinc-500">public/videos/{exerciseId}.mp4</code></span>
           </div>
         )}
 

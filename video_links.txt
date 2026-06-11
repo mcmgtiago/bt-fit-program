@@ -1,0 +1,171 @@
+====================================================================
+  LINKS DOS VIDEOS - B&T FIT PROGRAM
+  Instrucoes: preencha o link do YouTube apos cada "-" e salve.
+  Depois rode: node update-videos.js
+====================================================================
+
+
+## TIAGO - Jeff Nippard Pure Bodybuilding Program
+
+--- BLOCO 1 ---
+
+[ UPPER #1 ]
+t-b1-ua-lateral-raise | Elevação Lateral com Cabo atrás das Costas - https://youtu.be/XPPfnSEATJA
+t-b1-ua-lat-pull-around | Puxada Cruzada do Latíssimo - https://youtu.be/CAwf7n6Luuc
+t-b1-ua-smith-incline | Supino Inclinado Baixo no Smith - https://youtu.be/FWJR5Ve8bnQ
+t-b1-ua-chest-row | Remada na Máquina com Suporte no Peitoral - https://youtu.be/xQNrFHEMhI4
+t-b1-ua-overhead-tri | Extensão de Tríceps no Cabo Acima da Cabeça - https://youtu.be/YbX7Wd8jQ-Q
+t-b1-ua-lat-prayer | Oração do Latíssimo com Barra Reta - https://youtu.be/CAwf7n6Luuc
+t-b1-ua-pec-deck | Voador - https://youtu.be/eXtiyur5Y6I
+
+[ LOWER #1 ]
+t-b1-la-seated-leg-curl | Flexão de Joelhos Sentado - https://youtu.be/1Tq3QdYUuHs
+t-b1-la-hip-adduction | Adução de Quadril na Máquina - https://youtu.be/kDqklBBxWNU
+t-b1-la-hack-squat | Hack Squat - https://youtu.be/lGS3mEAiXGQ
+t-b1-la-leg-extension | Extensão de Joelhos - https://youtu.be/YyvSfVjQeL0
+t-b1-la-calf-press | Elevação de Panturrilha no Leg Press - https://youtu.be/c5Kv6-fnTj8
+
+[ ARMS & WEAK POINTS ]
+t-b1-aw-weakpoint1 | Exercício de Ponto Fraco 1 - 
+t-b1-aw-bayesian-curl | Rosca Bayesiana no Cabo - https://youtu.be/JnLFSFurrqQ
+t-b1-aw-db-french-press | Extensão de Tríceps Acima da Cabeça com Haltere - https://youtu.be/YbX7Wd8jQ-Q
+t-b1-aw-preacher-curl | Rosca Scott – 2/3 Inferior com Tensão Constante - https://youtu.be/nRrYxSXGcBQ
+t-b1-aw-cable-kickback | Extensão de Tríceps no Cabo - https://youtu.be/28JD9MVm38W
+t-b1-aw-cable-crunch | Abdominal no Cabo - https://youtu.be/2fbujeH3F0E
+
+[ UPPER #2 ]
+t-b1-ub-cable-row | Remada no Cabo com Pegada Pronada - https://youtu.be/GZbfZ033f74
+t-b1-ub-shoulder-press | Desenvolvimento na Máquina - https://youtu.be/1yMfMpFMJCk
+t-b1-ub-pullup | Barra Assistida - https://youtu.be/eGo4IYlbE5g
+t-b1-ub-dip | Paralela Assistida com Pausa - https://youtu.be/2z8JmcrW-As
+t-b1-ub-zottman-curl | Rosca Zottman Inversa com Haltere - https://youtu.be/JnLFSFurrqQ
+t-b1-ub-super-rom-lateral | Elevação Lateral com Haltere – Super-ROM - https://youtu.be/XPPfnSEATJA
+t-b1-ub-cable-reverse-flye | Voador Invertido no Cabo - https://youtu.be/ttvASfnDMno
+
+[ LOWER #2 ]
+t-b1-lb-lying-leg-curl | Flexão de Joelhos Deitada - https://youtu.be/1Tq3QdYUuHs
+t-b1-lb-leg-press | Leg Press - https://youtu.be/IZxyjW7MPJQ
+t-b1-lb-paused-rdl | Levantamento Terra Romeno com Pausa - https://youtu.be/2SHsk9AzdjA
+t-b1-lb-hip-adduction-ab | A1: Adução de Quadril + A2: Sissy Squat - https://youtu.be/kDqklBBxWNU
+t-b1-lb-standing-calf | Elevação de Panturrilha em Pé - https://youtu.be/c5Kv6-fnTj8
+
+--- BLOCO 2 ---
+
+[ UPPER #1 ]
+t-b2-ua-lateral-raise | Elevação Lateral com Cabo atrás das Costas - https://youtu.be/XPPfnSEATJA
+t-b2-ua-lat-row | Remada no Cabo com Foco no Latíssimo - https://youtu.be/GZbfZ033f74
+t-b2-ua-incline-db-press | Supino Inclinado Baixo com Halteres - https://youtu.be/8iPEnn-ltC8
+t-b2-ua-tbar-row-kelso | Remada T-Bar com Suporte + Kelso Shrug - https://youtu.be/xQNrFHEMhI4
+t-b2-ua-cable-fly-int | Crossover Inclinado com Partials Integradas - https://youtu.be/eXtiyur5Y6I
+t-b2-ua-lat-pullin | Puxada do Latíssimo com Um Braço - https://youtu.be/CAwf7n6Luuc
+t-b2-ua-dual-cable-tri | Extensão de Tríceps com Dois Cabos - https://youtu.be/2-LAMcpzODU
+
+[ LOWER #1 ]
+t-b2-la-seated-leg-curl | Flexão de Joelhos Sentado - https://youtu.be/1Tq3QdYUuHs
+t-b2-la-hip-adduction | Adução de Quadril na Máquina - https://youtu.be/kDqklBBxWNU
+t-b2-la-smith-squat | Agachamento no Smith - https://youtu.be/lGS3mEAiXGQ
+t-b2-la-leg-extension | Extensão de Joelhos - https://youtu.be/YyvSfVjQeL0
+t-b2-la-db-calf-jumps | Saltos de Panturrilha com Haltere - https://youtu.be/c5Kv6-fnTj8
+
+[ ARMS & WEAK POINTS ]
+t-b2-aw-weakpoint1 | Exercício de Ponto Fraco 1 - 
+t-b2-aw-ez-skull-crusher | Tríceps Testa com Barra EZ - https://youtu.be/ir5PsbniVSc
+t-b2-aw-bayesian-curl | Rosca Bayesiana com Negativo Lento - https://youtu.be/JnLFSFurrqQ
+t-b2-aw-tri-pressdown | Extensão de Tríceps com Corda Longa - https://youtu.be/2-LAMcpzODU
+t-b2-aw-reverse-curl | Rosca no Cabo com Pegada Pronada - https://youtu.be/JnLFSFurrqQ
+t-b2-aw-roman-leg-raise | Elevação de Pernas na Cadeira Romana - https://youtu.be/Pr1ieGZ5atk
+
+[ UPPER #2 ]
+t-b2-ub-lat-pulldown | Puxada com Dupla Alça - https://youtu.be/CAwf7n6Luuc
+t-b2-ub-db-shoulder-press | Desenvolvimento Sentado com Halteres - https://youtu.be/1yMfMpFMJCk
+t-b2-ub-chest-row2 | Remada na Máquina com Suporte no Peitoral - https://youtu.be/xQNrFHEMhI4
+t-b2-ub-decline-press | Supino Declinado na Máquina - https://youtu.be/vcBig73ojpE
+t-b2-ub-concentration-curl | Rosca Concentrada no Cabo - https://youtu.be/JnLFSFurrqQ
+t-b2-ub-cable-y-raise | Elevação em Y com Cabo Cruzado - https://youtu.be/XPPfnSEATJA
+t-b2-ub-rear-delt-flye | Voador de Deltóide Posterior no Cabo - https://youtu.be/ttvASfnDMno
+
+[ LOWER #2 ]
+t-b2-lb-lying-leg-curl | Flexão de Joelhos Deitada - https://youtu.be/1Tq3QdYUuHs
+t-b2-lb-smith-lunge | Avanço Reverso no Smith - https://youtu.be/2C-uNgKwPLE
+t-b2-lb-ghr | Rosca Nórdica / Glute-Ham Raise - https://youtu.be/d0UHs0aILzA
+t-b2-lb-superset-adduction | A1: Adução de Quadril + A2: Abdução de Quadril - https://youtu.be/kDqklBBxWNU
+t-b2-lb-standing-calf | Elevação de Panturrilha em Pé - https://youtu.be/c5Kv6-fnTj8
+
+
+## BRENDA - Stephanie Buttermore Womens Foundations
+
+--- BLOCO 1 ---
+
+[ UPPER A ]
+brenda-b1-ua-ohp | Desenvolvimento com Barra - https://youtu.be/azfndgN-S8A
+brenda-b1-ua-latpull | Puxada na Frente - https://youtu.be/q9KQxS6LDDO
+brenda-b1-ua-machine-chest | Supino na Máquina - https://youtu.be/Nmxq3AuDD48
+brenda-b1-ua-cable-row | Remada Sentada no Cabo - https://youtu.be/SC1xDVS3J-o
+brenda-b1-ua-lateral-raise | Elevação Lateral com Haltere - https://youtu.be/y18wHmZFRHy
+brenda-b1-ua-face-pull | Face Pull Sentado - https://youtu.be/VLPHW_5ioZQ
+brenda-b1-ua-barbell-curl | Rosca Direta com Barra - https://youtu.be/tVaeqoZKDAs
+brenda-b1-ua-vbar-pushdown | Extensão de Tríceps com V-Bar - https://youtu.be/BRnNLiALgfm
+
+[ LOWER A ]
+brenda-b1-la-squat | Agachamento com Barra - https://youtu.be/X1T027SHlUQ
+brenda-b1-la-hip-thrust | Elevação de Quadril com Barra - https://youtu.be/ORfNjJRAEFU
+brenda-b1-la-hyperextension | Hiperextensão 45° com Costas Arredondadas - https://youtu.be/ntiym2RI5wA
+brenda-b1-la-leg-curl | Flexão de Joelhos Deitada - https://youtu.be/QTF4VICZrgc
+brenda-b1-la-hip-abduction | Abdução de Quadril na Máquina - https://youtu.be/VCHmWIZS3gs
+brenda-b1-la-crunch | Abdominal - https://youtu.be/wXCu4reRGs8
+
+[ UPPER B ]
+brenda-b1-ub-machine-chest | Supino na Máquina - https://youtu.be/Nmxq3AuDD48
+brenda-b1-ub-pullup | Barra Assistida - https://youtu.be/SQcZjyiZxgW
+brenda-b1-ub-ohp | Desenvolvimento com Barra - https://youtu.be/azfndgN-S8A
+brenda-b1-ub-chest-row | Remada na Máquina com Suporte no Peitoral - https://youtu.be/8rajeV0KsSk
+brenda-b1-ub-lateral-raise | Elevação Lateral com Haltere - https://youtu.be/y18wHmZFRHy
+brenda-b1-ub-reverse-peck | Voador Invertido - https://youtu.be/RDQcETGI3Bi
+brenda-b1-ub-preacher-curl | Rosca Scott - https://youtu.be/nRrYxSXGcBQ
+brenda-b1-ub-rope-extension | Extensão de Cotovelo com Corda - https://youtu.be/IVL3-3GxGJe
+
+[ LOWER B ]
+brenda-b1-lb-deadlift | Levantamento Terra - https://youtu.be/4NJbwaBsKyw
+brenda-b1-lb-lunge | Avanço com Halteres - https://youtu.be/vFITjugsDCQ
+brenda-b1-lb-hip-thrust2 | Elevação de Quadril com Barra - https://youtu.be/ORfNjJRAEFU
+brenda-b1-lb-glute-kickback | Extensão de Glúteo no Cabo - https://youtu.be/HgzGEYxQ1j4
+brenda-b1-lb-calf-raise | Elevação de Panturrilha em Pé - https://youtu.be/Z9JJR-_-wsm
+brenda-b1-lb-plank | Prancha - https://youtu.be/IA3mcAuTtc4
+
+--- BLOCO 2 ---
+
+[ UPPER A ]
+brenda-b2-ua-ohp | Desenvolvimento com Barra - https://youtu.be/azfndgN-S8A
+brenda-b2-ua-iso-pulldown | Pulldown Isolateral - https://youtu.be/cLRPAQogyoY
+brenda-b2-ua-db-chest-press | Supino com Halteres - https://youtu.be/eQwDlO3Y94Q
+brenda-b2-ua-uni-cable-row | Remada Unilateral no Cabo - https://youtu.be/zGPJdisyCai
+brenda-b2-ua-cable-upright-row | Remada Alta no Cabo - https://youtu.be/OOCRuYGHFQA
+brenda-b2-ua-face-pull | Face Pull Sentado - https://youtu.be/VLPHW_5ioZQ
+brenda-b2-ua-alt-curl | Rosca Alternada com Halteres - https://youtu.be/QxaySnDKdMe
+brenda-b2-ua-rope-kickback | Extensão de Tríceps com Corda - https://youtu.be/28JD9MVm38W
+
+[ LOWER A ]
+brenda-b2-la-squat | Agachamento com Barra - https://youtu.be/X1T027SHlUQ
+brenda-b2-la-hip-thrust | Elevação de Quadril com Barra - https://youtu.be/ORfNjJRAEFU
+brenda-b2-la-pull-through | Puxada no Cabo por Entre as Pernas - https://youtu.be/YSSiPZlNGkw
+brenda-b2-la-uni-leg-curl | Flexão de Joelhos Unilateral Deitada - https://youtu.be/HkuXlsfdbQo
+brenda-b2-la-cable-abduction | Abdução de Quadril no Cabo - https://youtu.be/GE82PgwtzUc
+brenda-b2-la-bicycle-crunch | Abdominal Bicicleta - https://youtu.be/uzVC4OW00rm
+
+[ UPPER B ]
+brenda-b2-ub-db-chest-press | Supino com Halteres - https://youtu.be/eQwDlO3Y94Q
+brenda-b2-ub-pullup | Barra Assistida - https://youtu.be/SQcZjyiZxgW
+brenda-b2-ub-db-shoulder-press | Desenvolvimento Sentado com Halteres - https://youtu.be/D-Vo34S-JF4
+brenda-b2-ub-db-row | Remada com Haltere - https://youtu.be/1M4ZHWC--kM
+brenda-b2-ub-db-lateral-raise | Elevação Lateral com Haltere - https://youtu.be/y18wHmZFRHy
+brenda-b2-ub-db-front-raise | Elevação Frontal com Haltere - https://youtu.be/G7z6MVG1mlO
+brenda-b2-ub-cable-curl | Rosca com Cabo - https://youtu.be/JiF8AlatdOA
+brenda-b2-ub-rope-overhead | Extensão de Tríceps com Corda Acima da Cabeça - https://youtu.be/XudzptJqwYU
+
+[ LOWER B ]
+brenda-b2-lb-deadlift | Levantamento Terra - https://youtu.be/4NJbwaBsKyw
+brenda-b2-lb-uni-leg-press | Leg Press Unilateral - https://youtu.be/J6OBhIs_rPo
+brenda-b2-lb-banded-hip-thrust | Elevação de Quadril com Faixa nos Joelhos - https://youtu.be/KO7sLzLhfKI
+brenda-b2-lb-donkey-kickback | Extensão de Glúteo - https://youtu.be/_oQTX3mppTA
+brenda-b2-lb-seated-calf | Elevação de Panturrilha Sentado - https://youtu.be/-HAzo7PLGnk
+brenda-b2-lb-hanging-leg | Elevação de Pernas Suspenso - https://youtu.be/MFhDPEwDwPg
