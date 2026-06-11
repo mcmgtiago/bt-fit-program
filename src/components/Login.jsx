@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Dumbbell, Eye, EyeOff } from 'lucide-react'
+import { Eye, EyeOff } from 'lucide-react'
 
 export default function Login({ onLogin }) {
   const [username, setUsername] = useState('')
@@ -23,8 +23,8 @@ export default function Login({ onLogin }) {
       <div className="w-full max-w-sm">
         {/* Logo */}
         <div className="text-center mb-10">
-          <div className="inline-flex items-center justify-center w-20 h-20 rounded-2xl bg-red-600 mb-4 shadow-lg shadow-red-600/30">
-            <Dumbbell size={36} className="text-white" />
+          <div className="inline-flex items-center justify-center w-28 h-28 rounded-3xl overflow-hidden mb-4 shadow-lg shadow-black/50 ring-2 ring-red-600/40">
+            <img src="/icons/icon-512.png" alt="B&T Fit" className="w-full h-full object-cover" />
           </div>
           <h1 className="text-3xl font-bold text-white">B&T Fit</h1>
           <p className="text-zinc-400 mt-1 text-sm">Programa de Treino Upper/Lower</p>

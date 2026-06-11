@@ -30,8 +30,15 @@ export default function Workouts({ user }) {
   return (
     <div className="min-h-screen bg-zinc-950">
       <div className="bg-zinc-900 px-4 pt-12 pb-6">
-        <h1 className="text-2xl font-bold text-white">{data.programName}</h1>
-        <p className="text-zinc-400 text-sm mt-1">{data.author}</p>
+        <div className="flex items-start justify-between">
+          <div>
+            <h1 className="text-2xl font-bold text-white">{data.programName}</h1>
+            <p className="text-zinc-400 text-sm mt-1">{data.author}</p>
+          </div>
+          <div className="w-9 h-9 rounded-full overflow-hidden ring-1 ring-red-600/50 shrink-0 ml-3 mt-1">
+            <img src="/icons/icon-512.png" alt="B&T Fit" className="w-full h-full object-cover" />
+          </div>
+        </div>
 
         {/* Block Selector */}
         <div className="flex gap-2 mt-4">

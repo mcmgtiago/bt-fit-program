@@ -37,7 +37,12 @@ export default function Today({ user }) {
       <div className="bg-zinc-900 px-4 pt-12 pb-6">
         <div className="flex items-center justify-between mb-1">
           <span className="text-zinc-400 text-sm">Olá, {user === 'tiago' ? 'Tiago' : 'Brenda'} 👋</span>
-          <span className="text-zinc-500 text-xs">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' })}</span>
+          <div className="flex items-center gap-2">
+            <span className="text-zinc-500 text-xs">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' })}</span>
+            <div className="w-8 h-8 rounded-full overflow-hidden ring-1 ring-red-600/50 shrink-0">
+              <img src="/icons/icon-512.png" alt="B&T Fit" className="w-full h-full object-cover" />
+            </div>
+          </div>
         </div>
         <h1 className="text-2xl font-bold text-white">Seu treino de hoje</h1>
       </div>
