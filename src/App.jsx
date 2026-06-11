@@ -9,6 +9,7 @@ import History from './components/History'
 import Profile from './components/Profile'
 import Comparison from './components/Comparison'
 import BottomNav from './components/BottomNav'
+import InstallPWA from './components/InstallPWA'
 
 const USERS = {
   tiago: 'euamoabrenda',
@@ -53,6 +54,7 @@ export default function App() {
         </Routes>
       </div>
       {showNav && <BottomNav user={user} />}
+      <InstallPWA />
     </div>
   )
 }
