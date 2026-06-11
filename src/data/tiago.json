@@ -1,0 +1,1090 @@
+{
+  "programName": "Pure Bodybuilding Program – Upper/Lower",
+  "author": "Jeff Nippard",
+  "daysPerWeek": 5,
+  "dayOrder": ["upperA", "lowerA", "armsWeak", "upperB", "lowerB"],
+  "blocks": [
+    {
+      "blockNumber": 1,
+      "weekRange": [1, 4],
+      "days": {
+        "upperA": {
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "id": "t-b1-ua-lateral-raise",
+              "nameEn": "Cuffed Behind-The-Back Lateral Raise",
+              "namePt": "Elevação Lateral com Cabo atrás das Costas",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Myo-reps",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Eleve os cabos para cima e para fora em formato de 'Y'. Conecte-se com as fibras do deltóide medial. Myo-reps: faça a série principal até RPE 9-10, depois faça mini-séries de 3-5 reps com 3-5s de descanso.",
+              "videoDemo": "https://youtu.be/XPPfnSEATJA",
+              "primaryMuscles": "Deltóide medial"
+            },
+            {
+              "id": "t-b1-ua-lat-pull-around",
+              "nameEn": "Cross-Body Lat Pull-Around",
+              "namePt": "Puxada Cruzada do Latíssimo (Long-length Partials)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha o cabo e o pulso alinhados em linha reta durante todo o puxão. Sinta um belo alongamento profundo do latíssimo no topo. Long-length partials na última série: execute apenas a metade inferior do movimento (posição de alongamento).",
+              "videoDemo": "https://youtu.be/CAwf7n6Luuc",
+              "primaryMuscles": "Latíssimo do dorso"
+            },
+            {
+              "id": "t-b1-ua-smith-incline",
+              "nameEn": "Low Incline Smith Machine Press",
+              "namePt": "Supino Inclinado Baixo no Smith",
+              "warmupSets": 3,
+              "workingSets": 4,
+              "technique": "Pec Static Stretch (30s)",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "8-9 / 9-10 última", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9 / 9-10 última", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9 / 9-10 última", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9 / 9-10 última", "rest": "2-3min" }
+              ],
+              "notes": "Incline o banco a ~15°. 1 segundo de pausa no peitoral em cada rep mantendo tensão. Após a última série, segure o alongamento do peitoral por 30 segundos.",
+              "videoDemo": "https://youtu.be/FWJR5Ve8bnQ",
+              "primaryMuscles": "Peitoral, Tríceps, Deltóide anterior"
+            },
+            {
+              "id": "t-b1-ua-chest-row",
+              "nameEn": "Chest-Supported Machine Row",
+              "namePt": "Remada na Máquina com Suporte no Peitoral (Long-length Partials)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Cotovelos afastados a ~45° e aperte as escápulas com força no topo. Long-length partials na última série.",
+              "videoDemo": "https://youtu.be/xQNrFHEMhI4",
+              "primaryMuscles": "Latíssimo, Romboides, Deltóide posterior"
+            },
+            {
+              "id": "t-b1-ua-overhead-tri",
+              "nameEn": "Overhead Cable Triceps Extension (Bar) – Dropset",
+              "namePt": "Extensão de Tríceps no Cabo Acima da Cabeça (Dropset)",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "technique": "Dropset",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9-10", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9-10", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9-10", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9-10", "rest": "2-3min" }
+              ],
+              "notes": "Sinta um alongamento brutal no tríceps durante todo o negativo. Pausa de 1s na posição de alongamento. Dropset: ao falhar, reduza o peso imediatamente e continue.",
+              "videoDemo": "https://youtu.be/YbX7Wd8jQ-Q",
+              "primaryMuscles": "Tríceps"
+            },
+            {
+              "id": "t-b1-ua-lat-prayer",
+              "nameEn": "Straight-Bar Lat Prayer",
+              "namePt": "Oração do Latíssimo com Barra Reta (Long-length Partials)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10 / 8-9 última", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10 / 8-9 última", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10 / 8-9 última", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10 / 8-9 última", "rest": "1-2min" }
+              ],
+              "notes": "Incline para frente para sentir um grande alongamento no latíssimo no topo, e fique em pé ao apertar no final. Long-length partials na última série.",
+              "videoDemo": "https://youtu.be/CAwf7n6Luuc",
+              "primaryMuscles": "Latíssimo do dorso"
+            },
+            {
+              "id": "t-b1-ua-pec-deck",
+              "nameEn": "Pec Deck (Integrated Partials)",
+              "namePt": "Voador (Partials Integradas)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Integrated Partials",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Configure para permitir o máximo de alongamento. Em todas as séries: alterne 1 rep com ROM completa e 1 rep com meia amplitude (parte de alongamento/baixo). Repita até atingir as reps-alvo com RPE 9-10.",
+              "videoDemo": "https://youtu.be/eXtiyur5Y6I",
+              "primaryMuscles": "Peitoral"
+            }
+          ]
+        },
+        "lowerA": {
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "id": "t-b1-la-seated-leg-curl",
+              "nameEn": "Seated Leg Curl",
+              "namePt": "Flexão de Joelhos Sentado (Leg Curl)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Incline para frente sobre a máquina para obter o máximo de alongamento nos isquiotibiais. Use 2-3 segundos de negativo.",
+              "videoDemo": "https://youtu.be/1Tq3QdYUuHs",
+              "primaryMuscles": "Isquiotibiais"
+            },
+            {
+              "id": "t-b1-la-hip-adduction",
+              "nameEn": "Machine Hip Adduction",
+              "namePt": "Adução de Quadril na Máquina",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Conexão mente-músculo com a face interna da coxa. Ótimo para adicionar massa na parte frontal da coxa! Treine com esforço.",
+              "videoDemo": "https://youtu.be/kDqklBBxWNU",
+              "primaryMuscles": "Adutores"
+            },
+            {
+              "id": "t-b1-la-hack-squat",
+              "nameEn": "Hack Squat",
+              "namePt": "Hack Squat (Pirâmide Reversa: 4/6/8 reps)",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "technique": "Reverse Pyramid",
+              "weeklyData": [
+                { "reps": "4 / 6 / 8 (pirâmide reversa)", "rpe": "9", "rest": "3-5min" },
+                { "reps": "4 / 6 / 8 (pirâmide reversa)", "rpe": "9", "rest": "3-5min" },
+                { "reps": "4 / 6 / 8 (pirâmide reversa)", "rpe": "9", "rest": "3-5min" },
+                { "reps": "4 / 6 / 8 (pirâmide reversa)", "rpe": "9", "rest": "3-5min" }
+              ],
+              "notes": "Pirâmide reversa: 1ª série mais pesada (4 reps). Reduza ~10-15% para 6 reps. Reduza mais ~10-15% para 8 reps. Encoste o banco o máximo possível. Segure os apoios para puxar o bumbum para o assento.",
+              "videoDemo": "https://youtu.be/lGS3mEAiXGQ",
+              "primaryMuscles": "Quadríceps"
+            },
+            {
+              "id": "t-b1-la-leg-extension",
+              "nameEn": "Leg Extension",
+              "namePt": "Extensão de Joelhos (Long-length Partials)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Use negativo de 2-3 segundos. Sinta os quadríceps se separando no negativo. Long-length partials na última série: execute apenas a metade inferior (posição de alongamento).",
+              "videoDemo": "https://youtu.be/YyvSfVjQeL0",
+              "primaryMuscles": "Quadríceps"
+            },
+            {
+              "id": "t-b1-la-calf-press",
+              "nameEn": "Leg Press Calf Press",
+              "namePt": "Elevação de Panturrilha no Leg Press",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Calf Static Stretch (30s)",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Pausa de 1-2s no fundo. Em vez de só subir nas pontas, pense em rolar o tornozelo para frente e para trás na ponta dos pés. Após a última série, segure o alongamento por 30 segundos.",
+              "videoDemo": "https://youtu.be/c5Kv6-fnTj8",
+              "primaryMuscles": "Panturrilhas (gastrocnêmio)"
+            }
+          ]
+        },
+        "armsWeak": {
+          "name": "Arms & Weak Points",
+          "exercises": [
+            {
+              "id": "t-b1-aw-weakpoint1",
+              "nameEn": "Weak Point Exercise 1",
+              "namePt": "Exercício de Ponto Fraco 1",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8-12", "rpe": "9 / 9-10 última", "rest": "1-3min" },
+                { "reps": "8-12", "rpe": "9 / 9-10 última", "rest": "1-3min" },
+                { "reps": "8-12", "rpe": "9 / 9-10 última", "rest": "1-3min" },
+                { "reps": "8-12", "rpe": "9 / 9-10 última", "rest": "1-3min" }
+              ],
+              "notes": "Escolha seu ponto fraco na tabela do programa: Ombros, Latíssimo, Quadríceps, Glúteos, Peitoral, Pescoço, Isquiotibiais, Panturrilhas, Trapézio médio, Trapézio superior, Abdômen, Bíceps ou Tríceps. Escolha 1 exercício da coluna 1 da tabela.",
+              "videoDemo": "",
+              "primaryMuscles": "Ponto fraco escolhido"
+            },
+            {
+              "id": "t-b1-aw-bayesian-curl",
+              "nameEn": "Bayesian Cable Curl",
+              "namePt": "Rosca Bayesiana no Cabo (Long-length Partials)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Se tiver desequilíbrio esquerda-direita, faça 1 braço por vez, começando pelo mais fraco. Long-length partials na última série.",
+              "videoDemo": "https://youtu.be/JnLFSFurrqQ",
+              "primaryMuscles": "Bíceps"
+            },
+            {
+              "id": "t-b1-aw-db-french-press",
+              "nameEn": "Seated DB French Press",
+              "namePt": "Extensão de Tríceps Acima da Cabeça com Haltere",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Coloque ambas as palmas sob a cabeça do haltere. Execute extensões acima da cabeça. Sinta um alongamento profundo no fundo. Não pause no topo.",
+              "videoDemo": "https://youtu.be/YbX7Wd8jQ-Q",
+              "primaryMuscles": "Tríceps"
+            },
+            {
+              "id": "t-b1-aw-preacher-curl",
+              "nameEn": "Bottom-2/3 Constant Tension Preacher Curl",
+              "namePt": "Rosca Scott – 2/3 Inferior com Tensão Constante",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "technique": "Constant Tension (bottom 2/3)",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Fique apenas nos 2/3 inferiores do curl. Não suba até o topo. Mantenha o tríceps firmemente apoiado no banco. Sem pausa no topo ou no fundo: tensão constante no bíceps!",
+              "videoDemo": "https://youtu.be/nRrYxSXGcBQ",
+              "primaryMuscles": "Bíceps"
+            },
+            {
+              "id": "t-b1-aw-cable-kickback",
+              "nameEn": "Cable Triceps Kickback",
+              "namePt": "Extensão de Tríceps no Cabo (Kickback)",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Incline levemente para frente, afaste os cotovelos ligeiramente para fora. Mantenha os braços alinhados com o tronco. Extensão completa com aperto máximo.",
+              "videoDemo": "https://youtu.be/28JD9MVm38W",
+              "primaryMuscles": "Tríceps"
+            },
+            {
+              "id": "t-b1-aw-cable-crunch",
+              "nameEn": "Cable Crunch",
+              "namePt": "Abdominal no Cabo",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Arredonde a lombar ao contrair. Mantenha conexão mente-músculo com o six-pack.",
+              "videoDemo": "https://youtu.be/2fbujeH3F0E",
+              "primaryMuscles": "Abdominais"
+            }
+          ]
+        },
+        "upperB": {
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "id": "t-b1-ub-cable-row",
+              "nameEn": "Super-ROM Overhand Cable Row",
+              "namePt": "Remada no Cabo com Pegada Pronada (Super-ROM)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Use a barra larga do pulldown numa remada sentada. Pegada pronada. Incline para frente no negativo e endireite o tronco ao finalizar a remada.",
+              "videoDemo": "https://youtu.be/GZbfZ033f74",
+              "primaryMuscles": "Latíssimo, Romboides"
+            },
+            {
+              "id": "t-b1-ub-shoulder-press",
+              "nameEn": "Machine Shoulder Press – Dropset",
+              "namePt": "Desenvolvimento na Máquina (Dropset)",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "technique": "Dropset",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Cotovelos com pelo menos 90°. Conexão mente-músculo com os deltóides. Reps suaves e controladas. Dropset na última série: ao falhar, reduza o peso e continue.",
+              "videoDemo": "https://youtu.be/1yMfMpFMJCk",
+              "primaryMuscles": "Deltóides"
+            },
+            {
+              "id": "t-b1-ub-pullup",
+              "nameEn": "Assisted Pull-Up (Long-length Partials)",
+              "namePt": "Barra Assistida (Long-length Partials)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Negativo lento de 2-3 segundos. Sinta o latíssimo se separando na descida. Pausa de 0.5-1s no fundo. Long-length partials na última série.",
+              "videoDemo": "https://youtu.be/eGo4IYlbE5g",
+              "primaryMuscles": "Latíssimo, Bíceps"
+            },
+            {
+              "id": "t-b1-ub-dip",
+              "nameEn": "Paused Assisted Dip",
+              "namePt": "Paralela Assistida com Pausa",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "8-9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9", "rest": "2-3min" }
+              ],
+              "notes": "Negativo lento de 2-3s. Pausa de 1-2s no fundo. Suba de forma explosiva e controlada. Vá o mais fundo que os ombros permitirem confortavelmente.",
+              "videoDemo": "https://youtu.be/2z8JmcrW-As",
+              "primaryMuscles": "Peitoral inferior, Tríceps"
+            },
+            {
+              "id": "t-b1-ub-zottman-curl",
+              "nameEn": "Inverse DB Zottman Curl",
+              "namePt": "Rosca Zottman Inversa com Haltere",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Faça um hammer curl no positivo, depois vire as palmas para cima no topo e use pegada supinada no negativo.",
+              "videoDemo": "https://youtu.be/JnLFSFurrqQ",
+              "primaryMuscles": "Bíceps, Braquial"
+            },
+            {
+              "id": "t-b1-ub-super-rom-lateral",
+              "nameEn": "Super-ROM DB Lateral Raise",
+              "namePt": "Elevação Lateral com Haltere – Super-ROM",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "0.5-1min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "0.5-1min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "0.5-1min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "0.5-1min" }
+              ],
+              "notes": "Continue elevando além do paralelo, até os braços ficarem acima da cabeça. Acima do paralelo, use mais trapézio superior. Aperte no topo. Se sentir dor, pare no paralelo.",
+              "videoDemo": "https://youtu.be/XPPfnSEATJA",
+              "primaryMuscles": "Deltóide medial, Trapézio superior"
+            },
+            {
+              "id": "t-b1-ub-cable-reverse-flye",
+              "nameEn": "Cable Reverse Flye (Mechanical Dropset)",
+              "namePt": "Voador Invertido no Cabo (Mechanical Dropset)",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "technique": "Mechanical Dropset",
+              "weeklyData": [
+                { "reps": "5 + 4 + 3+", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "5 + 4 + 3+", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "5 + 4 + 3+", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "5 + 4 + 3+", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Recue ~3 grandes passos da máquina de cabo. Faça 5 reps. Sem descanso, dê 1 passo para frente e faça mais 4 reps. Sem descanso, mais 1 passo e faça 3+ reps até RPE 9-10.",
+              "videoDemo": "https://youtu.be/ttvASfnDMno",
+              "primaryMuscles": "Deltóide posterior"
+            }
+          ]
+        },
+        "lowerB": {
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "id": "t-b1-lb-lying-leg-curl",
+              "nameEn": "Lying Leg Curl (Long-length Partials)",
+              "namePt": "Flexão de Joelhos Deitada (Long-length Partials)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8-10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8-10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8-10", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Ajuste a máquina para obter o máximo de alongamento no fundo. Evite que o bumbum suba durante o curl. Quando não conseguir mais o squeeze completo, continue com reps parciais na última série.",
+              "videoDemo": "https://youtu.be/1Tq3QdYUuHs",
+              "primaryMuscles": "Isquiotibiais"
+            },
+            {
+              "id": "t-b1-lb-leg-press",
+              "nameEn": "Leg Press",
+              "namePt": "Leg Press",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "8", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "8", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "8", "rpe": "8-9", "rest": "1-2min" }
+              ],
+              "notes": "Pés mais baixos na plataforma para mais ativação do quadríceps. Vá o mais fundo possível sem arredondar a lombar excessivamente. Negativo controlado e leve pausa no fundo.",
+              "videoDemo": "https://youtu.be/IZxyjW7MPJQ",
+              "primaryMuscles": "Quadríceps, Glúteos"
+            },
+            {
+              "id": "t-b1-lb-paused-rdl",
+              "nameEn": "Paused Barbell RDL",
+              "namePt": "Levantamento Terra Romeno com Pausa",
+              "warmupSets": 3,
+              "workingSets": 2,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8", "rpe": "6-7 / 7-8 última", "rest": "3-4min" },
+                { "reps": "8", "rpe": "6-7 / 7-8 última", "rest": "3-4min" },
+                { "reps": "8", "rpe": "6-7 / 7-8 última", "rest": "3-4min" },
+                { "reps": "8", "rpe": "6-7 / 7-8 última", "rest": "3-4min" }
+              ],
+              "notes": "RPE intencionalmente baixo pois causará muito dano muscular. Pausa de 1s no fundo. Para manter tensão nos isquiotibiais, pare a ~75% do lockout (fique nos 3/4 inferiores da amplitude).",
+              "videoDemo": "https://youtu.be/2SHsk9AzdjA",
+              "primaryMuscles": "Isquiotibiais, Glúteos"
+            },
+            {
+              "id": "t-b1-lb-hip-adduction-ab",
+              "nameEn": "A1: Machine Hip Adduction + A2: Sissy Squat",
+              "namePt": "A1: Adução de Quadril + A2: Sissy Squat (Superset)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Superset",
+              "weeklyData": [
+                { "reps": "10-12 + 10-12", "rpe": "9-10", "rest": "0.5-1min entre A1/A2, 2min entre rounds" },
+                { "reps": "10-12 + 10-12", "rpe": "9-10", "rest": "0.5-1min entre A1/A2, 2min entre rounds" },
+                { "reps": "10-12 + 10-12", "rpe": "9-10", "rest": "0.5-1min entre A1/A2, 2min entre rounds" },
+                { "reps": "10-12 + 10-12", "rpe": "9-10", "rest": "0.5-1min entre A1/A2, 2min entre rounds" }
+              ],
+              "notes": "A1: Adução na máquina – conexão mente-músculo com a face interna da coxa. A2: Sissy Squat – suba nas pontas dos pés e empurre os joelhos para frente. É seguro para os joelhos. Se sentir dor, use a substituição.",
+              "videoDemo": "https://youtu.be/kDqklBBxWNU",
+              "primaryMuscles": "Adutores, Quadríceps"
+            },
+            {
+              "id": "t-b1-lb-standing-calf",
+              "nameEn": "Standing Calf Raise",
+              "namePt": "Elevação de Panturrilha em Pé",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Calf Static Stretch (30s)",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Pausa de 1-2s no fundo. Pense em rolar o tornozelo para frente e para trás na ponta dos pés. Após a última série, segure o alongamento por 30 segundos.",
+              "videoDemo": "https://youtu.be/c5Kv6-fnTj8",
+              "primaryMuscles": "Panturrilhas (gastrocnêmio)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "blockNumber": 2,
+      "weekRange": [5, 8],
+      "days": {
+        "upperA": {
+          "name": "Upper #1",
+          "exercises": [
+            {
+              "id": "t-b2-ua-lateral-raise",
+              "nameEn": "Cuffed Behind-The-Back Lateral Raise",
+              "namePt": "Elevação Lateral com Cabo atrás das Costas",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Myo-reps",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Mesmo exercício do Bloco 1. Foco em aumentar o peso progressivamente.",
+              "videoDemo": "https://youtu.be/XPPfnSEATJA",
+              "primaryMuscles": "Deltóide medial"
+            },
+            {
+              "id": "t-b2-ua-lat-row",
+              "nameEn": "Lat-Focused Cable Row",
+              "namePt": "Remada no Cabo com Foco no Latíssimo",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Lat Static Stretch (30s)",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha o tronco fixo (não incline no negativo). Puxe cotovelos para baixo e para trás para engajar os lats. Mantenha os cotovelos próximos ao tronco.",
+              "videoDemo": "https://youtu.be/GZbfZ033f74",
+              "primaryMuscles": "Latíssimo do dorso"
+            },
+            {
+              "id": "t-b2-ua-incline-db-press",
+              "nameEn": "Low Incline DB Press",
+              "namePt": "Supino Inclinado Baixo com Halteres",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Banco a ~15°. Leve encolhimento de cotovelo no negativo e então afaste ao empurrar. Reps suaves. Sem pausa no topo ou fundo: tensão constante.",
+              "videoDemo": "https://youtu.be/8iPEnn-ltC8",
+              "primaryMuscles": "Peitoral superior, Tríceps, Deltóide"
+            },
+            {
+              "id": "t-b2-ua-tbar-row-kelso",
+              "nameEn": "Chest-Supported T-Bar Row + Kelso Shrug",
+              "namePt": "Remada T-Bar com Suporte + Kelso Shrug",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Compound Set",
+              "weeklyData": [
+                { "reps": "8-10 remo + 4-6 kelso", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10 remo + 4-6 kelso", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10 remo + 4-6 kelso", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10 remo + 4-6 kelso", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Faça 8-10 reps de remada normal (cotovelos a 45°, aperte as escápulas). Sem descanso, faça 4-6 Kelso Shrugs (apenas aperte as escápulas sem remo completo).",
+              "videoDemo": "https://youtu.be/xQNrFHEMhI4",
+              "primaryMuscles": "Romboides, Trapézio médio, Latíssimo"
+            },
+            {
+              "id": "t-b2-ua-cable-fly-int",
+              "nameEn": "Bent-Over Cable Pec Flye (Integrated Partials)",
+              "namePt": "Crossover Inclinado com Partials Integradas",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Integrated Partials",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "8-9", "rest": "1-2min" }
+              ],
+              "notes": "Incline o tronco até ficar paralelo ao chão. Voe diretamente para fora e para baixo em direção ao chão. Alterne reps completas e reps de meia amplitude (parte inferior).",
+              "videoDemo": "https://youtu.be/eXtiyur5Y6I",
+              "primaryMuscles": "Peitoral"
+            },
+            {
+              "id": "t-b2-ua-lat-pullin",
+              "nameEn": "1-Arm Lat Pull-In",
+              "namePt": "Puxada do Latíssimo com Um Braço (Long-length Partials)",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Puxe o cabo de lado enquanto mantém conexão com o latíssimo. Evite que o bíceps domine.",
+              "videoDemo": "https://youtu.be/CAwf7n6Luuc",
+              "primaryMuscles": "Latíssimo do dorso"
+            },
+            {
+              "id": "t-b2-ua-dual-cable-tri",
+              "nameEn": "Dual-Cable Triceps Press",
+              "namePt": "Extensão de Tríceps com Dois Cabos",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "2-3min" }
+              ],
+              "notes": "Segure os cabos sem handle. Posicione-os na altura do queixo/ombros. Pressione para frente (não para cima). Sinta o tríceps trabalhando em posição alongada.",
+              "videoDemo": "https://youtu.be/2-LAMcpzODU",
+              "primaryMuscles": "Tríceps"
+            }
+          ]
+        },
+        "lowerA": {
+          "name": "Lower #1",
+          "exercises": [
+            {
+              "id": "t-b2-la-seated-leg-curl",
+              "nameEn": "Seated Leg Curl",
+              "namePt": "Flexão de Joelhos Sentado",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Mesmo exercício. Progressão de carga semanal.",
+              "videoDemo": "https://youtu.be/1Tq3QdYUuHs",
+              "primaryMuscles": "Isquiotibiais"
+            },
+            {
+              "id": "t-b2-la-hip-adduction",
+              "nameEn": "Machine Hip Adduction",
+              "namePt": "Adução de Quadril na Máquina",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Conexão mente-músculo com os adutores. Progressão de carga.",
+              "videoDemo": "https://youtu.be/kDqklBBxWNU",
+              "primaryMuscles": "Adutores"
+            },
+            {
+              "id": "t-b2-la-smith-squat",
+              "nameEn": "Smith Machine Squat",
+              "namePt": "Agachamento no Smith (Pirâmide Reversa)",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "technique": "Reverse Pyramid",
+              "weeklyData": [
+                { "reps": "4 / 6 / 8 (pirâmide reversa)", "rpe": "9", "rest": "3-5min" },
+                { "reps": "4 / 6 / 8 (pirâmide reversa)", "rpe": "9", "rest": "3-5min" },
+                { "reps": "4 / 6 / 8 (pirâmide reversa)", "rpe": "9", "rest": "3-5min" },
+                { "reps": "4 / 6 / 8 (pirâmide reversa)", "rpe": "9", "rest": "3-5min" }
+              ],
+              "notes": "Pirâmide reversa: 1ª série mais pesada (4 reps), reduza ~10-15% para 6 reps, reduza mais para 8 reps.",
+              "videoDemo": "https://youtu.be/lGS3mEAiXGQ",
+              "primaryMuscles": "Quadríceps, Glúteos"
+            },
+            {
+              "id": "t-b2-la-leg-extension",
+              "nameEn": "Leg Extension (Long-length Partials)",
+              "namePt": "Extensão de Joelhos (Long-length Partials)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Negativo de 2-3 segundos. Long-length partials na última série.",
+              "videoDemo": "https://youtu.be/YyvSfVjQeL0",
+              "primaryMuscles": "Quadríceps"
+            },
+            {
+              "id": "t-b2-la-db-calf-jumps",
+              "nameEn": "DB Calf Jumps",
+              "namePt": "Saltos de Panturrilha com Haltere",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Segure um haltere e simule um salto sem sair do chão. Use leve flexão de joelho, mas dependa principalmente das panturrilhas/tornozelos. Movimento similar ao pular corda.",
+              "videoDemo": "https://youtu.be/c5Kv6-fnTj8",
+              "primaryMuscles": "Panturrilhas"
+            }
+          ]
+        },
+        "armsWeak": {
+          "name": "Arms & Weak Points",
+          "exercises": [
+            {
+              "id": "t-b2-aw-weakpoint1",
+              "nameEn": "Weak Point Exercise 1",
+              "namePt": "Exercício de Ponto Fraco 1",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8-12", "rpe": "9 / 9-10 última", "rest": "1-3min" },
+                { "reps": "8-12", "rpe": "9 / 9-10 última", "rest": "1-3min" },
+                { "reps": "8-12", "rpe": "9 / 9-10 última", "rest": "1-3min" },
+                { "reps": "8-12", "rpe": "9 / 9-10 última", "rest": "1-3min" }
+              ],
+              "notes": "Continue com o mesmo ponto fraco do Bloco 1 ou escolha um novo baseado na resposta ao treinamento.",
+              "videoDemo": "",
+              "primaryMuscles": "Ponto fraco escolhido"
+            },
+            {
+              "id": "t-b2-aw-ez-skull-crusher",
+              "nameEn": "Slow-Eccentric EZ-Bar Skull Crusher",
+              "namePt": "Tríceps Testa com Barra EZ (Negativo Lento)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Slow Eccentric (3-4s)",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Negativo de 3-4 segundos. Arc a barra levemente atrás da cabeça. Ao estender, mantenha a barra atrás da linha dos olhos. Use a pegada interna (mais próxima) e deixe os cotovelos abrirem confortavelmente.",
+              "videoDemo": "https://youtu.be/ir5PsbniVSc",
+              "primaryMuscles": "Tríceps"
+            },
+            {
+              "id": "t-b2-aw-bayesian-curl",
+              "nameEn": "Slow-Eccentric Bayesian Curl",
+              "namePt": "Rosca Bayesiana com Negativo Lento",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Slow Eccentric (3-4s)",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Negativo de 3-4 segundos e leve pausa no fundo para enfatizar o alongamento do bíceps.",
+              "videoDemo": "https://youtu.be/JnLFSFurrqQ",
+              "primaryMuscles": "Bíceps"
+            },
+            {
+              "id": "t-b2-aw-tri-pressdown",
+              "nameEn": "Triceps Diverging Pressdown (Long Rope)",
+              "namePt": "Extensão de Tríceps com Corda Longa (Divergente)",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Use corda longa ou duas cordas. Incline levemente para frente, afaste os cotovelos ligeiramente. Faça extensões de tríceps com aperto máximo no fundo.",
+              "videoDemo": "https://youtu.be/2-LAMcpzODU",
+              "primaryMuscles": "Tríceps"
+            },
+            {
+              "id": "t-b2-aw-reverse-curl",
+              "nameEn": "Reverse-Grip Cable Curl",
+              "namePt": "Rosca no Cabo com Pegada Pronada",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Segure a barra do cabo com as palmas para baixo. Trabalha a parte posterior do antebraço, braquial e bíceps!",
+              "videoDemo": "https://youtu.be/JnLFSFurrqQ",
+              "primaryMuscles": "Braquial, Bíceps, Antebraço"
+            },
+            {
+              "id": "t-b2-aw-roman-leg-raise",
+              "nameEn": "Roman Chair Leg Raise",
+              "namePt": "Elevação de Pernas na Cadeira Romana",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-20", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-20", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-20", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-20", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Permita que a lombar arredonde ao enrolar as pernas para cima. 10-20 reps é intencional: vá até RPE 9-10 com forma controlada.",
+              "videoDemo": "https://youtu.be/Pr1ieGZ5atk",
+              "primaryMuscles": "Abdominais"
+            }
+          ]
+        },
+        "upperB": {
+          "name": "Upper #2",
+          "exercises": [
+            {
+              "id": "t-b2-ub-lat-pulldown",
+              "nameEn": "Dual-Handle Lat Pulldown (Mid-back + Lats)",
+              "namePt": "Puxada com Dupla Alça (Latíssimo + Trapézio médio)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Incline levemente para trás (~15°) e puxe os cotovelos para baixo enquanto aperta as escápulas. Deve sentir como uma mistura de lats e trapézio médio.",
+              "videoDemo": "https://youtu.be/CAwf7n6Luuc",
+              "primaryMuscles": "Latíssimo, Trapézio médio"
+            },
+            {
+              "id": "t-b2-ub-db-shoulder-press",
+              "nameEn": "Seated DB Shoulder Press",
+              "namePt": "Desenvolvimento Sentado com Halteres",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Gire levemente os halteres para dentro no negativo e afaste os cotovelos ao empurrar.",
+              "videoDemo": "https://youtu.be/1yMfMpFMJCk",
+              "primaryMuscles": "Deltóides"
+            },
+            {
+              "id": "t-b2-ub-chest-row2",
+              "nameEn": "Chest-Supported Machine Row",
+              "namePt": "Remada na Máquina com Suporte no Peitoral (Long-length Partials)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Cotovelos a ~45° e aperte as escápulas com força no topo. Long-length partials na última série.",
+              "videoDemo": "https://youtu.be/xQNrFHEMhI4",
+              "primaryMuscles": "Latíssimo, Romboides, Deltóide posterior"
+            },
+            {
+              "id": "t-b2-ub-decline-press",
+              "nameEn": "Decline Machine Chest Press",
+              "namePt": "Supino Declinado na Máquina",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "8-9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9", "rest": "2-3min" },
+                { "reps": "8-10", "rpe": "8-9", "rest": "2-3min" }
+              ],
+              "notes": "Sinta o peitoral se abrindo no negativo. Negativo lento de 2-3s. Pausa de 1-2s no fundo. Suba de forma explosiva e controlada.",
+              "videoDemo": "https://youtu.be/vcBig73ojpE",
+              "primaryMuscles": "Peitoral inferior, Tríceps"
+            },
+            {
+              "id": "t-b2-ub-concentration-curl",
+              "nameEn": "Concentration Cable Curl",
+              "namePt": "Rosca Concentrada no Cabo",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Apoie o cotovelo de trabalho no joelho. Forme estrita. Bom para isolar o bíceps.",
+              "videoDemo": "https://youtu.be/JnLFSFurrqQ",
+              "primaryMuscles": "Bíceps"
+            },
+            {
+              "id": "t-b2-ub-cable-y-raise",
+              "nameEn": "Cross-Body Cable Y-Raise",
+              "namePt": "Elevação em Y com Cabo Cruzado",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10-12", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Pense em 'desenhar uma espada' no positivo. Balance o braço para cima, para fora e para a frente. Pode levar algumas semanas para acertar o padrão.",
+              "videoDemo": "https://youtu.be/XPPfnSEATJA",
+              "primaryMuscles": "Deltóide medial"
+            },
+            {
+              "id": "t-b2-ub-rear-delt-flye",
+              "nameEn": "Rear Delt 45° Cable Flye",
+              "namePt": "Voador de Deltóide Posterior no Cabo (45°)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "12-15", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Puxe com um braço de cada vez, apoiando-se na máquina com a outra mão. Alinhe o braço e o cabo em linha reta no fundo do voador.",
+              "videoDemo": "https://youtu.be/ttvASfnDMno",
+              "primaryMuscles": "Deltóide posterior"
+            }
+          ]
+        },
+        "lowerB": {
+          "name": "Lower #2",
+          "exercises": [
+            {
+              "id": "t-b2-lb-lying-leg-curl",
+              "nameEn": "Lying Leg Curl (Long-length Partials)",
+              "namePt": "Flexão de Joelhos Deitada (Long-length Partials)",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "technique": "Long-length Partials",
+              "weeklyData": [
+                { "reps": "8-10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8-10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8-10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8-10", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Máximo alongamento no fundo. Long-length partials na última série.",
+              "videoDemo": "https://youtu.be/1Tq3QdYUuHs",
+              "primaryMuscles": "Isquiotibiais"
+            },
+            {
+              "id": "t-b2-lb-smith-lunge",
+              "nameEn": "Smith Machine Reverse Lunge",
+              "namePt": "Avanço Reverso no Smith",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8 cada perna", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "8-9", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "8-9", "rest": "1-2min" }
+              ],
+              "notes": "Recue uma perna no negativo e então empurre o peso usando a perna da frente. Minimize a assistência da perna de trás.",
+              "videoDemo": "https://youtu.be/2C-uNgKwPLE",
+              "primaryMuscles": "Glúteos, Quadríceps"
+            },
+            {
+              "id": "t-b2-lb-ghr",
+              "nameEn": "Glute-Ham Raise",
+              "namePt": "Rosca Nórdica / Glute-Ham Raise",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "technique": "N/A",
+              "weeklyData": [
+                { "reps": "8", "rpe": "8-9 / 9-10 última", "rest": "3-4min" },
+                { "reps": "8", "rpe": "8-9 / 9-10 última", "rest": "3-4min" },
+                { "reps": "8", "rpe": "8-9 / 9-10 última", "rest": "3-4min" },
+                { "reps": "8", "rpe": "8-9 / 9-10 última", "rest": "3-4min" }
+              ],
+              "notes": "Corte o topo ~25% da ROM (onde há mínima tensão nos isquiotibiais). Negativo controlado e aperte os isquiotibiais para puxar para cima.",
+              "videoDemo": "https://youtu.be/d0UHs0aILzA",
+              "primaryMuscles": "Isquiotibiais"
+            },
+            {
+              "id": "t-b2-lb-superset-adduction",
+              "nameEn": "A1: Machine Hip Adduction + A2: Machine Hip Abduction",
+              "namePt": "A1: Adução de Quadril + A2: Abdução de Quadril (Superset)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Superset",
+              "weeklyData": [
+                { "reps": "10-12 + 10-12", "rpe": "9-10", "rest": "0.5-1min entre, 2min entre rounds" },
+                { "reps": "10-12 + 10-12", "rpe": "9-10", "rest": "0.5-1min entre, 2min entre rounds" },
+                { "reps": "10-12 + 10-12", "rpe": "9-10", "rest": "0.5-1min entre, 2min entre rounds" },
+                { "reps": "10-12 + 10-12", "rpe": "9-10", "rest": "0.5-1min entre, 2min entre rounds" }
+              ],
+              "notes": "A1: Adução – mente-músculo com os adutores. A2: Abdução – se possível, use suportes para aumentar a amplitude. Incline para frente e segure nos trilhos para alongar mais os glúteos.",
+              "videoDemo": "https://youtu.be/kDqklBBxWNU",
+              "primaryMuscles": "Adutores, Glúteos"
+            },
+            {
+              "id": "t-b2-lb-standing-calf",
+              "nameEn": "Standing Calf Raise",
+              "namePt": "Elevação de Panturrilha em Pé",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "technique": "Calf Static Stretch (30s)",
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9-10", "rest": "1-2min" }
+              ],
+              "notes": "Pausa de 1-2s no fundo. Progressão de carga semanal.",
+              "videoDemo": "https://youtu.be/c5Kv6-fnTj8",
+              "primaryMuscles": "Panturrilhas"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

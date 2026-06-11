@@ -1,0 +1,1010 @@
+{
+  "programName": "Women's Foundations Program",
+  "author": "Stephanie Buttermore",
+  "blocks": [
+    {
+      "blockNumber": 1,
+      "weekRange": [1, 4],
+      "days": {
+        "upperA": {
+          "name": "Upper A",
+          "exercises": [
+            {
+              "id": "brenda-b1-ua-ohp",
+              "nameEn": "Barbell Overhead Press",
+              "namePt": "Desenvolvimento com Barra",
+              "warmupSets": 2,
+              "workingSets": 4,
+              "weeklyData": [
+                { "reps": "4", "rpe": "6", "rest": "2-3min" },
+                { "reps": "5", "rpe": "7", "rest": "2-3min" },
+                { "reps": "5", "rpe": "8", "rest": "2-3min" },
+                { "reps": "6", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Aperte os glúteos para manter o tronco ereto. Pressione a barra diretamente acima da cabeça.",
+              "videoDemo": "https://youtu.be/azfndgN-S8A",
+              "jointActions": "Flexão do ombro, extensão do cotovelo, adução transversa do ombro",
+              "primaryMuscles": "Deltoides"
+            },
+            {
+              "id": "brenda-b1-ua-latpull",
+              "nameEn": "Lat Pulldown",
+              "namePt": "Puxada na Frente (Pulley)",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "10", "rpe": "7", "rest": "2-3min" },
+                { "reps": "10", "rpe": "8", "rest": "2-3min" },
+                { "reps": "10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Puxe os cotovelos para baixo e para dentro. Mantenha o peito alto.",
+              "videoDemo": "https://youtu.be/q9KQxS6LDDO",
+              "jointActions": "Adução do ombro, extensão do ombro, flexão do cotovelo, depressão escapular",
+              "primaryMuscles": "Latíssimo do dorso, Bíceps"
+            },
+            {
+              "id": "brenda-b1-ua-machine-chest",
+              "nameEn": "Machine Chest Press",
+              "namePt": "Supino na Máquina",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "5", "rpe": "6", "rest": "2-3min" },
+                { "reps": "6", "rpe": "7", "rest": "2-3min" },
+                { "reps": "6", "rpe": "8", "rest": "2-3min" },
+                { "reps": "7", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha as escápulas retraídas e deprimidas durante todo o movimento.",
+              "videoDemo": "https://youtu.be/Nmxq3AuDD48",
+              "jointActions": "Adução transversa do ombro, extensão do cotovelo, flexão do ombro",
+              "primaryMuscles": "Peitoral, Tríceps, Deltoides"
+            },
+            {
+              "id": "brenda-b1-ua-cable-row",
+              "nameEn": "Cable Seated Row",
+              "namePt": "Remada Sentada no Cabo",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "2-3min" },
+                { "reps": "12", "rpe": "8", "rest": "2-3min" },
+                { "reps": "12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "12", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Puxe os cotovelos para baixo ao lado do tronco. Retraia as escápulas no final do movimento.",
+              "videoDemo": "https://youtu.be/SC1xDVS3J-o",
+              "jointActions": "Extensão do ombro, abdução transversa do ombro, flexão do cotovelo, retração escapular",
+              "primaryMuscles": "Latíssimo do dorso, Deltoides posteriores"
+            },
+            {
+              "id": "brenda-b1-ua-lateral-raise",
+              "nameEn": "Dumbbell Lateral Raise",
+              "namePt": "Elevação Lateral com Haltere",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "15", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Gire levemente o ombro internamente (polegar para baixo). Eleve até paralelo ao chão.",
+              "videoDemo": "https://youtu.be/y18wHmZFRHy",
+              "jointActions": "Abdução do ombro",
+              "primaryMuscles": "Deltoides"
+            },
+            {
+              "id": "brenda-b1-ua-face-pull",
+              "nameEn": "Seated Face Pull",
+              "namePt": "Face Pull Sentado",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "15", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Puxe os cotovelos para cima e para fora. Rotação externa do ombro no final.",
+              "videoDemo": "https://youtu.be/VLPHW_5ioZQ",
+              "jointActions": "Abdução transversa do ombro, rotação externa, flexão do cotovelo, retração escapular",
+              "primaryMuscles": "Deltoides posteriores, Trapézio inferior"
+            },
+            {
+              "id": "brenda-b1-ua-barbell-curl",
+              "nameEn": "Barbell Curl",
+              "namePt": "Rosca Direta com Barra",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "1-2min" },
+                { "reps": "12", "rpe": "8", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar o bíceps durante o movimento. Não balance o tronco.",
+              "videoDemo": "https://youtu.be/tVaeqoZKDAs",
+              "jointActions": "Flexão do cotovelo, supinação do punho",
+              "primaryMuscles": "Bíceps"
+            },
+            {
+              "id": "brenda-b1-ua-vbar-pushdown",
+              "nameEn": "V-Bar Press Down",
+              "namePt": "Extensão de Tríceps com V-Bar",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "1-2min" },
+                { "reps": "12", "rpe": "8", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar o tríceps no final do movimento. Mantenha os cotovelos fixos.",
+              "videoDemo": "https://youtu.be/BRnNLiALgfm",
+              "jointActions": "Extensão do cotovelo",
+              "primaryMuscles": "Tríceps"
+            }
+          ]
+        },
+        "lowerA": {
+          "name": "Lower A",
+          "exercises": [
+            {
+              "id": "brenda-b1-la-squat",
+              "nameEn": "Back Squat",
+              "namePt": "Agachamento com Barra",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "4", "rpe": "6", "rest": "2-3min" },
+                { "reps": "5", "rpe": "7", "rest": "2-3min" },
+                { "reps": "5", "rpe": "8", "rest": "2-3min" },
+                { "reps": "7", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Sente para baixo e para trás. Mantenha os joelhos afastados alinhados com os pés.",
+              "videoDemo": "https://youtu.be/X1T027SHlUQ",
+              "jointActions": "Extensão do quadril, extensão do joelho, rotação externa do quadril, extensão lombar",
+              "primaryMuscles": "Quadríceps, Glúteos"
+            },
+            {
+              "id": "brenda-b1-la-hip-thrust",
+              "nameEn": "Barbell Hip Thrust",
+              "namePt": "Elevação de Quadril com Barra",
+              "warmupSets": 2,
+              "workingSets": 4,
+              "weeklyData": [
+                { "reps": "8", "rpe": "6", "rest": "2-3min" },
+                { "reps": "9", "rpe": "7", "rest": "2-3min" },
+                { "reps": "9", "rpe": "8", "rest": "2-3min" },
+                { "reps": "10", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha a caixa torácica e o queixo encaixados. Empurre os calcanhares no chão.",
+              "videoDemo": "https://youtu.be/ORfNjJRAEFU",
+              "jointActions": "Extensão do quadril, extensão do joelho, retroversão pélvica",
+              "primaryMuscles": "Glúteos"
+            },
+            {
+              "id": "brenda-b1-la-hyperextension",
+              "nameEn": "Round-Back 45° Hyperextension",
+              "namePt": "Hiperextensão 45° com Costas Arredondadas",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "1-2min" },
+                { "reps": "12", "rpe": "8", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Arredonde as costas e empurre o quadril contra o apoio. Foco nos glúteos.",
+              "videoDemo": "https://youtu.be/ntiym2RI5wA",
+              "jointActions": "Extensão do quadril",
+              "primaryMuscles": "Glúteos, Isquiotibiais"
+            },
+            {
+              "id": "brenda-b1-la-leg-curl",
+              "nameEn": "Lying Leg Curl",
+              "namePt": "Flexão de Joelhos Deitada",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "1-2min" },
+                { "reps": "12", "rpe": "8", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Aperte os isquiotibiais durante o movimento. Evite levantar o quadril.",
+              "videoDemo": "https://youtu.be/QTF4VICZrgc",
+              "jointActions": "Flexão do joelho",
+              "primaryMuscles": "Isquiotibiais"
+            },
+            {
+              "id": "brenda-b1-la-hip-abduction",
+              "nameEn": "Machine Hip Abduction",
+              "namePt": "Abdução de Quadril na Máquina",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "15", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Contraia os glúteos ao abrir as pernas. Controle o retorno.",
+              "videoDemo": "https://youtu.be/VCHmWIZS3gs",
+              "jointActions": "Abdução do quadril",
+              "primaryMuscles": "Glúteos"
+            },
+            {
+              "id": "brenda-b1-la-crunch",
+              "nameEn": "Crunch",
+              "namePt": "Abdominal",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "10-12", "rpe": "7", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "8", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10-12", "rpe": "8", "rest": "1-2min" }
+              ],
+              "notes": "Flexione a coluna. Não puxe a cabeça com as mãos.",
+              "videoDemo": "https://youtu.be/wXCu4reRGs8",
+              "jointActions": "Flexão da coluna",
+              "primaryMuscles": "Abdominais"
+            }
+          ]
+        },
+        "upperB": {
+          "name": "Upper B",
+          "exercises": [
+            {
+              "id": "brenda-b1-ub-machine-chest",
+              "nameEn": "Machine Chest Press",
+              "namePt": "Supino na Máquina",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "8", "rpe": "6", "rest": "2-3min" },
+                { "reps": "9", "rpe": "7", "rest": "2-3min" },
+                { "reps": "9", "rpe": "8", "rest": "2-3min" },
+                { "reps": "10", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha as escápulas retraídas e deprimidas durante todo o movimento.",
+              "videoDemo": "https://youtu.be/Nmxq3AuDD48",
+              "jointActions": "Adução transversa do ombro, extensão do cotovelo",
+              "primaryMuscles": "Peitoral, Tríceps, Deltoides"
+            },
+            {
+              "id": "brenda-b1-ub-pullup",
+              "nameEn": "Assisted Pull-Up",
+              "namePt": "Barra Assistida",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "8", "rpe": "7", "rest": "2-3min" },
+                { "reps": "8", "rpe": "8", "rest": "2-3min" },
+                { "reps": "8", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Puxe os cotovelos em direção à cintura. Peito até a barra.",
+              "videoDemo": "https://youtu.be/SQcZjyiZxgW",
+              "jointActions": "Extensão do ombro, flexão do cotovelo",
+              "primaryMuscles": "Latíssimo do dorso, Bíceps"
+            },
+            {
+              "id": "brenda-b1-ub-ohp",
+              "nameEn": "Barbell Overhead Press",
+              "namePt": "Desenvolvimento com Barra",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "8", "rpe": "6", "rest": "2-3min" },
+                { "reps": "9", "rpe": "7", "rest": "2-3min" },
+                { "reps": "9", "rpe": "8", "rest": "2-3min" },
+                { "reps": "10", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Aperte os glúteos para manter o tronco ereto. Pressione verticalmente.",
+              "videoDemo": "https://youtu.be/azfndgN-S8A",
+              "jointActions": "Flexão do ombro, extensão do cotovelo",
+              "primaryMuscles": "Deltoides, Tríceps"
+            },
+            {
+              "id": "brenda-b1-ub-chest-row",
+              "nameEn": "Chest-Supported Machine Row",
+              "namePt": "Remada na Máquina com Suporte no Peitoral",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "10", "rpe": "7", "rest": "2-3min" },
+                { "reps": "10", "rpe": "8", "rest": "2-3min" },
+                { "reps": "10", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Puxe os cotovelos para cima e para fora. Retraia as escápulas.",
+              "videoDemo": "https://youtu.be/8rajeV0KsSk",
+              "jointActions": "Abdução transversa do ombro, extensão do ombro, retração escapular",
+              "primaryMuscles": "Latíssimo do dorso, Deltoides posteriores, Bíceps"
+            },
+            {
+              "id": "brenda-b1-ub-lateral-raise",
+              "nameEn": "Dumbbell Lateral Raise",
+              "namePt": "Elevação Lateral com Haltere",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "15", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Gire levemente o ombro internamente. Eleve até paralelo ao chão.",
+              "videoDemo": "https://youtu.be/y18wHmZFRHy",
+              "jointActions": "Abdução do ombro",
+              "primaryMuscles": "Deltoides"
+            },
+            {
+              "id": "brenda-b1-ub-reverse-peck",
+              "nameEn": "Reverse Peck Deck",
+              "namePt": "Voador Invertido",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "15", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Abra os braços para fora. Foco nos deltoides posteriores.",
+              "videoDemo": "https://youtu.be/RDQcETGI3Bi",
+              "jointActions": "Abdução transversa do ombro",
+              "primaryMuscles": "Deltoides posteriores"
+            },
+            {
+              "id": "brenda-b1-ub-preacher-curl",
+              "nameEn": "Preacher Curl",
+              "namePt": "Rosca Scott",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "10", "rpe": "7", "rest": "1-2min" },
+                { "reps": "10", "rpe": "8", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Aperte o bíceps. Desça controlado para alongar completamente.",
+              "videoDemo": "https://youtu.be/nRrYxSXGcBQ",
+              "jointActions": "Flexão do cotovelo, supinação do punho",
+              "primaryMuscles": "Bíceps"
+            },
+            {
+              "id": "brenda-b1-ub-rope-extension",
+              "nameEn": "Rope Elbow Extension",
+              "namePt": "Extensão de Cotovelo com Corda",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "1-2min" },
+                { "reps": "12", "rpe": "8", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Aperte o tríceps no final do movimento. Cotovelos fixos.",
+              "videoDemo": "https://youtu.be/IVL3-3GxGJe",
+              "jointActions": "Extensão do cotovelo",
+              "primaryMuscles": "Tríceps"
+            }
+          ]
+        },
+        "lowerB": {
+          "name": "Lower B",
+          "exercises": [
+            {
+              "id": "brenda-b1-lb-deadlift",
+              "nameEn": "Deadlift",
+              "namePt": "Levantamento Terra",
+              "warmupSets": 3,
+              "workingSets": 4,
+              "weeklyData": [
+                { "reps": "4", "rpe": "6", "rest": "2-3min" },
+                { "reps": "5", "rpe": "7", "rest": "2-3min" },
+                { "reps": "5", "rpe": "8", "rest": "2-3min" },
+                { "reps": "6", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha o quadril alto e a coluna lombar neutra. Empurre o chão para baixo.",
+              "videoDemo": "https://youtu.be/4NJbwaBsKyw",
+              "jointActions": "Extensão do quadril, extensão do joelho, extensão lombar",
+              "primaryMuscles": "Isquiotibiais, Glúteos"
+            },
+            {
+              "id": "brenda-b1-lb-lunge",
+              "nameEn": "Dumbbell Walking Lunge",
+              "namePt": "Avanço com Halteres (Caminhando)",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "15 cada perna", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15 cada perna", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15 cada perna", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15 cada perna", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Mantenha a canela da frente vertical. 15 passos por perna.",
+              "videoDemo": "https://youtu.be/vFITjugsDCQ",
+              "jointActions": "Extensão do joelho, extensão do quadril",
+              "primaryMuscles": "Glúteos, Quadríceps"
+            },
+            {
+              "id": "brenda-b1-lb-hip-thrust2",
+              "nameEn": "Barbell Hip Thrust",
+              "namePt": "Elevação de Quadril com Barra",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "2-3min" },
+                { "reps": "12", "rpe": "8", "rest": "2-3min" },
+                { "reps": "12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "12", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha a caixa torácica e o queixo encaixados. Aperte os glúteos no topo.",
+              "videoDemo": "https://youtu.be/ORfNjJRAEFU",
+              "jointActions": "Extensão do quadril, retroversão pélvica",
+              "primaryMuscles": "Glúteos"
+            },
+            {
+              "id": "brenda-b1-lb-glute-kickback",
+              "nameEn": "Cable Glute Kickback",
+              "namePt": "Extensão de Glúteo no Cabo",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "15 cada perna", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15 cada perna", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15 cada perna", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15 cada perna", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar o glúteo para mover o peso. Tronco estável.",
+              "videoDemo": "https://youtu.be/HgzGEYxQ1j4",
+              "jointActions": "Extensão do quadril, extensão do joelho",
+              "primaryMuscles": "Glúteos, Isquiotibiais"
+            },
+            {
+              "id": "brenda-b1-lb-calf-raise",
+              "nameEn": "Standing Calf Raise",
+              "namePt": "Elevação de Panturrilha em Pé",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "10", "rpe": "7", "rest": "1-2min" },
+                { "reps": "10", "rpe": "8", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Suba nas pontas dos pés. Desça até o máximo de alongamento.",
+              "videoDemo": "https://youtu.be/Z9JJR-_-wsm",
+              "jointActions": "Flexão plantar",
+              "primaryMuscles": "Panturrilhas"
+            },
+            {
+              "id": "brenda-b1-lb-plank",
+              "nameEn": "Plank",
+              "namePt": "Prancha",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "30seg", "rpe": "7", "rest": "1-2min" },
+                { "reps": "30seg", "rpe": "8", "rest": "1-2min" },
+                { "reps": "30seg", "rpe": "9", "rest": "1-2min" },
+                { "reps": "30seg", "rpe": "8", "rest": "1-2min" }
+              ],
+              "notes": "Aperte os glúteos e o abdômen. Corpo reto como uma prancha.",
+              "videoDemo": "https://youtu.be/IA3mcAuTtc4",
+              "jointActions": "Flexão da coluna (isométrica)",
+              "primaryMuscles": "Abdominais"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "blockNumber": 2,
+      "weekRange": [5, 8],
+      "days": {
+        "upperA": {
+          "name": "Upper A",
+          "exercises": [
+            {
+              "id": "brenda-b2-ua-ohp",
+              "nameEn": "Barbell Overhead Press",
+              "namePt": "Desenvolvimento com Barra",
+              "warmupSets": 2,
+              "workingSets": 4,
+              "weeklyData": [
+                { "reps": "10", "rpe": "6", "rest": "2-3min" },
+                { "reps": "11", "rpe": "7", "rest": "2-3min" },
+                { "reps": "11", "rpe": "8", "rest": "2-3min" },
+                { "reps": "12", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Aperte os glúteos para manter o tronco ereto. Pressione verticalmente.",
+              "videoDemo": "https://youtu.be/azfndgN-S8A",
+              "jointActions": "Flexão do ombro, extensão do cotovelo",
+              "primaryMuscles": "Deltoides"
+            },
+            {
+              "id": "brenda-b2-ua-iso-pulldown",
+              "nameEn": "Isolateral Pulldown",
+              "namePt": "Pulldown Isolateral",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "2-3min" },
+                { "reps": "12", "rpe": "8", "rest": "2-3min" },
+                { "reps": "12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "12", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Puxe os cotovelos para baixo e para dentro. Um braço de cada vez.",
+              "videoDemo": "https://youtu.be/cLRPAQogyoY",
+              "jointActions": "Adução do ombro, extensão do ombro, flexão do cotovelo",
+              "primaryMuscles": "Latíssimo do dorso, Bíceps"
+            },
+            {
+              "id": "brenda-b2-ua-db-chest-press",
+              "nameEn": "Dumbbell Chest Press",
+              "namePt": "Supino com Halteres",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "8", "rpe": "6", "rest": "2-3min" },
+                { "reps": "9", "rpe": "7", "rest": "2-3min" },
+                { "reps": "9", "rpe": "8", "rest": "2-3min" },
+                { "reps": "10", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha as escápulas retraídas. Abaixe controlado até alongar o peitoral.",
+              "videoDemo": "https://youtu.be/eQwDlO3Y94Q",
+              "jointActions": "Adução transversa do ombro, extensão do cotovelo",
+              "primaryMuscles": "Peitoral, Deltoides, Tríceps"
+            },
+            {
+              "id": "brenda-b2-ua-uni-cable-row",
+              "nameEn": "Unilateral Cable Row",
+              "namePt": "Remada Unilateral no Cabo",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "10 cada lado", "rpe": "7", "rest": "2-3min" },
+                { "reps": "10 cada lado", "rpe": "8", "rest": "2-3min" },
+                { "reps": "10 cada lado", "rpe": "9", "rest": "2-3min" },
+                { "reps": "10 cada lado", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Puxe o cotovelo para baixo e para trás. Retraia a escápula.",
+              "videoDemo": "https://youtu.be/zGPJdisyCai",
+              "jointActions": "Extensão do ombro, abdução transversa, flexão do cotovelo",
+              "primaryMuscles": "Latíssimo do dorso, Bíceps"
+            },
+            {
+              "id": "brenda-b2-ua-cable-upright-row",
+              "nameEn": "Cable Upright Row",
+              "namePt": "Remada Alta no Cabo",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "10", "rpe": "7", "rest": "1-2min" },
+                { "reps": "10", "rpe": "8", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9", "rest": "1-2min" },
+                { "reps": "10", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Puxe até o braço superior ficar paralelo ao chão. Cotovelos para fora.",
+              "videoDemo": "https://youtu.be/OOCRuYGHFQA",
+              "jointActions": "Abdução do ombro, flexão do cotovelo",
+              "primaryMuscles": "Deltoides, Bíceps"
+            },
+            {
+              "id": "brenda-b2-ua-face-pull",
+              "nameEn": "Seated Face Pull",
+              "namePt": "Face Pull Sentado",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "15", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Puxe os cotovelos para cima e para fora. Rotação externa máxima.",
+              "videoDemo": "https://youtu.be/VLPHW_5ioZQ",
+              "jointActions": "Abdução transversa, rotação externa, retração escapular",
+              "primaryMuscles": "Deltoides posteriores, Trapézio inferior"
+            },
+            {
+              "id": "brenda-b2-ua-alt-curl",
+              "nameEn": "DB Alternating Curl",
+              "namePt": "Rosca Alternada com Halteres",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "8 cada braço", "rpe": "7", "rest": "1-2min" },
+                { "reps": "8 cada braço", "rpe": "8", "rest": "1-2min" },
+                { "reps": "8 cada braço", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8 cada braço", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar o bíceps. Supine o punho no topo.",
+              "videoDemo": "https://youtu.be/QxaySnDKdMe",
+              "jointActions": "Flexão do cotovelo, supinação do punho",
+              "primaryMuscles": "Bíceps"
+            },
+            {
+              "id": "brenda-b2-ua-rope-kickback",
+              "nameEn": "Cable Rope Kickback",
+              "namePt": "Extensão de Tríceps com Corda (Kickback)",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "20", "rpe": "7", "rest": "1-2min" },
+                { "reps": "20", "rpe": "8", "rest": "1-2min" },
+                { "reps": "20", "rpe": "9", "rest": "1-2min" },
+                { "reps": "20", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Mantenha o cotovelo atrás do tronco. Estenda completamente.",
+              "videoDemo": "https://youtu.be/28JD9MVm38W",
+              "jointActions": "Extensão do cotovelo",
+              "primaryMuscles": "Tríceps"
+            }
+          ]
+        },
+        "lowerA": {
+          "name": "Lower A",
+          "exercises": [
+            {
+              "id": "brenda-b2-la-squat",
+              "nameEn": "Back Squat",
+              "namePt": "Agachamento com Barra",
+              "warmupSets": 3,
+              "workingSets": 4,
+              "weeklyData": [
+                { "reps": "8", "rpe": "6", "rest": "2-3min" },
+                { "reps": "9", "rpe": "7", "rest": "2-3min" },
+                { "reps": "9", "rpe": "8", "rest": "2-3min" },
+                { "reps": "10", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Sente para baixo e para trás. Mantenha os joelhos afastados.",
+              "videoDemo": "https://youtu.be/X1T027SHlUQ",
+              "jointActions": "Extensão do quadril, extensão do joelho",
+              "primaryMuscles": "Quadríceps, Glúteos"
+            },
+            {
+              "id": "brenda-b2-la-hip-thrust",
+              "nameEn": "Barbell Hip Thrust",
+              "namePt": "Elevação de Quadril com Barra",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "12", "rpe": "6", "rest": "2-3min" },
+                { "reps": "13", "rpe": "7", "rest": "2-3min" },
+                { "reps": "13", "rpe": "8", "rest": "2-3min" },
+                { "reps": "14", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha a caixa torácica e o queixo encaixados.",
+              "videoDemo": "https://youtu.be/ORfNjJRAEFU",
+              "jointActions": "Extensão do quadril, retroversão pélvica",
+              "primaryMuscles": "Glúteos"
+            },
+            {
+              "id": "brenda-b2-la-pull-through",
+              "nameEn": "Cable Pull-Through",
+              "namePt": "Puxada no Cabo por Entre as Pernas",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "15", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em estender o quadril. Mantenha os joelhos levemente dobrados.",
+              "videoDemo": "https://youtu.be/YSSiPZlNGkw",
+              "jointActions": "Extensão do quadril",
+              "primaryMuscles": "Glúteos, Isquiotibiais"
+            },
+            {
+              "id": "brenda-b2-la-uni-leg-curl",
+              "nameEn": "Unilateral Lying Leg Curl",
+              "namePt": "Flexão de Joelhos Unilateral Deitada",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "8 cada perna", "rpe": "7", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "8", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar os isquiotibiais. Uma perna por vez.",
+              "videoDemo": "https://youtu.be/HkuXlsfdbQo",
+              "jointActions": "Flexão do joelho",
+              "primaryMuscles": "Isquiotibiais"
+            },
+            {
+              "id": "brenda-b2-la-cable-abduction",
+              "nameEn": "Cable Hip Abduction",
+              "namePt": "Abdução de Quadril no Cabo",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "8 cada perna", "rpe": "7", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "8", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8 cada perna", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Mantenha o tronco ereto. Balance a perna para fora.",
+              "videoDemo": "https://youtu.be/GE82PgwtzUc",
+              "jointActions": "Abdução do quadril",
+              "primaryMuscles": "Glúteos"
+            },
+            {
+              "id": "brenda-b2-la-bicycle-crunch",
+              "nameEn": "Bicycle Crunch",
+              "namePt": "Abdominal Bicicleta",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "8 cada lado", "rpe": "7", "rest": "1-2min" },
+                { "reps": "8 cada lado", "rpe": "8", "rest": "1-2min" },
+                { "reps": "8 cada lado", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8 cada lado", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em flexionar e rotar a coluna. Movimento controlado.",
+              "videoDemo": "https://youtu.be/uzVC4OW00rm",
+              "jointActions": "Flexão da coluna, rotação do tronco",
+              "primaryMuscles": "Abdominais"
+            }
+          ]
+        },
+        "upperB": {
+          "name": "Upper B",
+          "exercises": [
+            {
+              "id": "brenda-b2-ub-db-chest-press",
+              "nameEn": "Dumbbell Chest Press",
+              "namePt": "Supino com Halteres",
+              "warmupSets": 2,
+              "workingSets": 4,
+              "weeklyData": [
+                { "reps": "6", "rpe": "6", "rest": "2-3min" },
+                { "reps": "7", "rpe": "7", "rest": "2-3min" },
+                { "reps": "7", "rpe": "8", "rest": "2-3min" },
+                { "reps": "8", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha as escápulas retraídas. Abaixe até sentir o alongamento.",
+              "videoDemo": "https://youtu.be/eQwDlO3Y94Q",
+              "jointActions": "Adução transversa do ombro, extensão do cotovelo",
+              "primaryMuscles": "Peitoral, Deltoides, Tríceps"
+            },
+            {
+              "id": "brenda-b2-ub-pullup",
+              "nameEn": "Assisted Pull-Up",
+              "namePt": "Barra Assistida",
+              "warmupSets": 2,
+              "workingSets": 4,
+              "weeklyData": [
+                { "reps": "4", "rpe": "6", "rest": "2-3min" },
+                { "reps": "5", "rpe": "7", "rest": "2-3min" },
+                { "reps": "5", "rpe": "8", "rest": "2-3min" },
+                { "reps": "6", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Puxe os cotovelos em direção à cintura. Peito até a barra.",
+              "videoDemo": "https://youtu.be/SQcZjyiZxgW",
+              "jointActions": "Extensão do ombro, flexão do cotovelo",
+              "primaryMuscles": "Latíssimo do dorso, Bíceps"
+            },
+            {
+              "id": "brenda-b2-ub-db-shoulder-press",
+              "nameEn": "DB Seated Shoulder Press",
+              "namePt": "Desenvolvimento Sentado com Halteres",
+              "warmupSets": 2,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "2-3min" },
+                { "reps": "12", "rpe": "8", "rest": "2-3min" },
+                { "reps": "12", "rpe": "9", "rest": "2-3min" },
+                { "reps": "12", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha o tronco ereto. Pressione acima da cabeça.",
+              "videoDemo": "https://youtu.be/D-Vo34S-JF4",
+              "jointActions": "Flexão do ombro, extensão do cotovelo",
+              "primaryMuscles": "Deltoides, Tríceps"
+            },
+            {
+              "id": "brenda-b2-ub-db-row",
+              "nameEn": "Dumbbell Row",
+              "namePt": "Remada com Haltere",
+              "warmupSets": 1,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "8 cada lado", "rpe": "7", "rest": "2-3min" },
+                { "reps": "8 cada lado", "rpe": "8", "rest": "2-3min" },
+                { "reps": "8 cada lado", "rpe": "9", "rest": "2-3min" },
+                { "reps": "8 cada lado", "rpe": "9", "rest": "2-3min" }
+              ],
+              "notes": "Puxe o cotovelo para baixo e para trás. Retraia a escápula.",
+              "videoDemo": "https://youtu.be/1M4ZHWC--kM",
+              "jointActions": "Abdução transversa, extensão do ombro",
+              "primaryMuscles": "Latíssimo do dorso, Bíceps"
+            },
+            {
+              "id": "brenda-b2-ub-db-lateral-raise",
+              "nameEn": "DB Lateral Raise",
+              "namePt": "Elevação Lateral com Haltere",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "8", "rpe": "7", "rest": "1-2min" },
+                { "reps": "8", "rpe": "8", "rest": "1-2min" },
+                { "reps": "8", "rpe": "9", "rest": "1-2min" },
+                { "reps": "8", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Gire levemente o ombro internamente. Eleve até paralelo.",
+              "videoDemo": "https://youtu.be/y18wHmZFRHy",
+              "jointActions": "Abdução do ombro",
+              "primaryMuscles": "Deltoides"
+            },
+            {
+              "id": "brenda-b2-ub-db-front-raise",
+              "nameEn": "Dumbbell Front Raise",
+              "namePt": "Elevação Frontal com Haltere",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "12", "rpe": "7", "rest": "1-2min" },
+                { "reps": "12", "rpe": "8", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" },
+                { "reps": "12", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar o deltóide anterior. Levante até a altura dos ombros.",
+              "videoDemo": "https://youtu.be/G7z6MVG1mlO",
+              "jointActions": "Flexão do ombro",
+              "primaryMuscles": "Deltoides"
+            },
+            {
+              "id": "brenda-b2-ub-cable-curl",
+              "nameEn": "Cable Single-Arm Curl",
+              "namePt": "Rosca com Cabo (Um Braço)",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "15 cada braço", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15 cada braço", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15 cada braço", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15 cada braço", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar o bíceps. Desça controlado.",
+              "videoDemo": "https://youtu.be/JiF8AlatdOA",
+              "jointActions": "Flexão do cotovelo, supinação do punho",
+              "primaryMuscles": "Bíceps"
+            },
+            {
+              "id": "brenda-b2-ub-rope-overhead",
+              "nameEn": "Rope Overhead Elbow Extension",
+              "namePt": "Extensão de Tríceps com Corda Acima da Cabeça",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "15", "rpe": "7", "rest": "1-2min" },
+                { "reps": "15", "rpe": "8", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" },
+                { "reps": "15", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar o tríceps. Cotovelos próximos à cabeça.",
+              "videoDemo": "https://youtu.be/XudzptJqwYU",
+              "jointActions": "Extensão do cotovelo",
+              "primaryMuscles": "Tríceps"
+            }
+          ]
+        },
+        "lowerB": {
+          "name": "Lower B",
+          "exercises": [
+            {
+              "id": "brenda-b2-lb-deadlift",
+              "nameEn": "Deadlift",
+              "namePt": "Levantamento Terra",
+              "warmupSets": 3,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "6", "rpe": "6", "rest": "2-3min" },
+                { "reps": "7", "rpe": "7", "rest": "2-3min" },
+                { "reps": "7", "rpe": "8", "rest": "2-3min" },
+                { "reps": "8", "rpe": "8", "rest": "2-3min" }
+              ],
+              "notes": "Mantenha o quadril alto e a coluna lombar neutra. Empurre o chão para baixo.",
+              "videoDemo": "https://youtu.be/4NJbwaBsKyw",
+              "jointActions": "Extensão do quadril, extensão do joelho",
+              "primaryMuscles": "Isquiotibiais, Glúteos"
+            },
+            {
+              "id": "brenda-b2-lb-uni-leg-press",
+              "nameEn": "Unilateral Leg Press",
+              "namePt": "Leg Press Unilateral",
+              "warmupSets": 1,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "12 cada perna", "rpe": "7", "rest": "1-2min" },
+                { "reps": "12 cada perna", "rpe": "8", "rest": "1-2min" },
+                { "reps": "12 cada perna", "rpe": "9", "rest": "1-2min" },
+                { "reps": "12 cada perna", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Comece com a perna mais fraca. Mantenha o joelho alinhado com o pé.",
+              "videoDemo": "https://youtu.be/J6OBhIs_rPo",
+              "jointActions": "Extensão do joelho, extensão do quadril",
+              "primaryMuscles": "Quadríceps, Glúteos"
+            },
+            {
+              "id": "brenda-b2-lb-banded-hip-thrust",
+              "nameEn": "Knee-Banded Barbell Hip Thrust",
+              "namePt": "Elevação de Quadril com Faixa nos Joelhos",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "20", "rpe": "7", "rest": "1-2min" },
+                { "reps": "20", "rpe": "8", "rest": "1-2min" },
+                { "reps": "20", "rpe": "9", "rest": "1-2min" },
+                { "reps": "20", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Mantenha os joelhos afastados com a faixa. Queixo e costelas encaixados.",
+              "videoDemo": "https://youtu.be/KO7sLzLhfKI",
+              "jointActions": "Extensão do quadril, abdução do quadril",
+              "primaryMuscles": "Glúteos"
+            },
+            {
+              "id": "brenda-b2-lb-donkey-kickback",
+              "nameEn": "Donkey Kickback",
+              "namePt": "Extensão de Glúteo (Donkey)",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "20 cada perna", "rpe": "7", "rest": "1-2min" },
+                { "reps": "20 cada perna", "rpe": "8", "rest": "1-2min" },
+                { "reps": "20 cada perna", "rpe": "9", "rest": "1-2min" },
+                { "reps": "20 cada perna", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Foco em apertar o glúteo para mover a perna. Tronco estável.",
+              "videoDemo": "https://youtu.be/_oQTX3mppTA",
+              "jointActions": "Extensão do quadril",
+              "primaryMuscles": "Glúteos"
+            },
+            {
+              "id": "brenda-b2-lb-seated-calf",
+              "nameEn": "Seated Calf Raise",
+              "namePt": "Elevação de Panturrilha Sentado",
+              "warmupSets": 0,
+              "workingSets": 2,
+              "weeklyData": [
+                { "reps": "6", "rpe": "7", "rest": "1-2min" },
+                { "reps": "6", "rpe": "8", "rest": "1-2min" },
+                { "reps": "6", "rpe": "9", "rest": "1-2min" },
+                { "reps": "6", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Suba nas pontas dos pés. Máximo de alongamento na descida.",
+              "videoDemo": "https://youtu.be/-HAzo7PLGnk",
+              "jointActions": "Flexão plantar",
+              "primaryMuscles": "Panturrilhas"
+            },
+            {
+              "id": "brenda-b2-lb-hanging-leg",
+              "nameEn": "Hanging Leg Raise",
+              "namePt": "Elevação de Pernas Suspenso",
+              "warmupSets": 0,
+              "workingSets": 3,
+              "weeklyData": [
+                { "reps": "6", "rpe": "7", "rest": "1-2min" },
+                { "reps": "6", "rpe": "8", "rest": "1-2min" },
+                { "reps": "6", "rpe": "9", "rest": "1-2min" },
+                { "reps": "6", "rpe": "9", "rest": "1-2min" }
+              ],
+              "notes": "Aperte os glúteos. Leve as pernas o mais alto possível.",
+              "videoDemo": "https://youtu.be/MFhDPEwDwPg",
+              "jointActions": "Flexão da coluna",
+              "primaryMuscles": "Abdominais"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
